@@ -4,6 +4,8 @@ simple web project to show how use git and github
 
 ## Introduction
 
+blablabla
+
 ## Purpose
 
 ## Deployment
