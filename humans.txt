@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jan Kowalski	jk@jk.com	@jk123
 
 # THANKS
 
